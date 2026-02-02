@@ -122,7 +122,7 @@
             <!-- Bottom footer -->
             <div class="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
                 <p class="text-gray-500 text-sm mb-4 md:mb-0">
-                    <a href="cubelligent.com">© Cubelligent</a>
+                    <a href="https://cubelligent.com" target="_blank">© Cubelligent</a>
                 </p>
                 <div class="flex space-x-6">
                     <a href="#" id="open_preferences_center"

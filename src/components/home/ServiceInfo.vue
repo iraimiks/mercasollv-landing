@@ -4,10 +4,11 @@
             <!-- Section header -->
             <div class="text-center mb-16">
                 <h2 class="text-3xl md:text-4xl font-extrabold">
-                    Pretrūsas apstrāde ar <span class="text-red-500">Mercasol</span>
+                    Pretrūsas apstrāde ar <span class="text-red-600">Mercasol</span>
                 </h2>
                 <p class="mt-4 text-lg text-gray-300 max-w-3xl mx-auto">
-                    Pilna pretrūsas apstrāde visu veidu automašīnām ar Zviedrijā ražoto “Mercasol” produkciju, ar ražotāja izstrādāto metodi, lai aizsargātu transportlīdzekļus.
+                    Pilna pretrūsas apstrāde visu veidu automašīnām ar Zviedrijā ražoto “Mercasol” produkciju, ar
+                    ražotāja izstrādāto metodi, lai aizsargātu transportlīdzekļus.
                 </p>
             </div>
 
@@ -31,27 +32,30 @@
                         <h3 class="text-xl font-bold mb-3">Kāpēc rūsa ir bīstama?</h3>
                         <p class="text-gray-300 mb-4">
                             Rūsa var būt nemanāma, bet bojājumi ir nopietni.
-Rūsas bojājumi automašīnām bieži sākas aiz plastmasas pārsegiem un paliek nepamanīti, līdz ir par vēlu.
+                            Rūsas bojājumi automašīnām bieži sākas aiz plastmasas pārsegiem un paliek nepamanīti, līdz
+                            ir par vēlu.
                         </p>
                         <ul class="space-y-2">
                             <li class="flex items-center">
-                                <svg class="w-4 h-4 text-red-500 mr-2" fill="none" viewBox="0 0 24 24"
+                                <svg class="w-4 h-4 text-red-600 mr-2" fill="none" viewBox="0 0 24 24"
                                     stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                         d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-sm">Rūsas dēļ tiek bojātas rāmja sijas, gāzes tvertnes un bremžu caurules.</span>
+                                <span class="text-sm">Rūsas dēļ tiek bojātas rāmja sijas, gāzes tvertnes un bremžu
+                                    caurules.</span>
                             </li>
                             <li class="flex items-center">
-                                <svg class="w-4 h-4 text-red-500 mr-2" fill="none" viewBox="0 0 24 24"
+                                <svg class="w-4 h-4 text-red-600 mr-2" fill="none" viewBox="0 0 24 24"
                                     stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                         d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-sm">Rūsas bojājumi var paslēpties zem plastmasas un netikt pamanīti.</span>
+                                <span class="text-sm">Rūsas bojājumi var paslēpties zem plastmasas un netikt
+                                    pamanīti.</span>
                             </li>
                             <li class="flex items-center">
-                                <svg class="w-4 h-4 text-red-500 mr-2" fill="none" viewBox="0 0 24 24"
+                                <svg class="w-4 h-4 text-red-600 mr-2" fill="none" viewBox="0 0 24 24"
                                     stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                         d="M5 13l4 4L19 7" />
@@ -80,11 +84,12 @@ Rūsas bojājumi automašīnām bieži sākas aiz plastmasas pārsegiem un palie
                         <h3 class="text-xl font-bold mb-3">Latvijas klimats un automašīnas</h3>
                         <p class="text-gray-300 mb-4">
                             Mūsu laikapstākļi veicina rūsas veidošanos.
-                            Ar vidējo gada temperatūru 6°C un ceļu sālīšanu, automašīnas Latvijā ir īpaši pakļautas rūsas bojājumiem.
+                            Ar vidējo gada temperatūru 6°C un ceļu sālīšanu, automašīnas Latvijā ir īpaši pakļautas
+                            rūsas bojājumiem.
                         </p>
                         <ul class="space-y-2">
                             <li class="flex items-center">
-                                <svg class="w-4 h-4 text-red-500 mr-2" fill="none" viewBox="0 0 24 24"
+                                <svg class="w-4 h-4 text-red-600 mr-2" fill="none" viewBox="0 0 24 24"
                                     stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                         d="M5 13l4 4L19 7" />
@@ -92,20 +97,22 @@ Rūsas bojājumi automašīnām bieži sākas aiz plastmasas pārsegiem un palie
                                 <span class="text-sm">Aukstas ziemas un mitrs klimats paātrina koroziju.</span>
                             </li>
                             <li class="flex items-center">
-                                <svg class="w-4 h-4 text-red-500 mr-2" fill="none" viewBox="0 0 24 24"
+                                <svg class="w-4 h-4 text-red-600 mr-2" fill="none" viewBox="0 0 24 24"
                                     stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                         d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-sm">Sālīti ceļi izraisa metāla bojājumus un ātru rūsas attīstību.</span>
+                                <span class="text-sm">Sālīti ceļi izraisa metāla bojājumus un ātru rūsas
+                                    attīstību.</span>
                             </li>
                             <li class="flex items-center">
-                                <svg class="w-4 h-4 text-red-500 mr-2" fill="none" viewBox="0 0 24 24"
+                                <svg class="w-4 h-4 text-red-600 mr-2" fill="none" viewBox="0 0 24 24"
                                     stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                         d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-sm">Regulāra aizsardzība pret rūsu pagarinās automašīnas kalpošanas ilgumu.</span>
+                                <span class="text-sm">Regulāra aizsardzība pret rūsu pagarinās automašīnas kalpošanas
+                                    ilgumu.</span>
                             </li>
                         </ul>
                     </div>
@@ -129,32 +136,36 @@ Rūsas bojājumi automašīnām bieži sākas aiz plastmasas pārsegiem un palie
                         <h3 class="text-xl font-bold mb-3">Garantijas ierobežojumi</h3>
                         <p class="text-gray-300 mb-4">
                             Rūpnīcas garantija nepasargā visu automašīnu.
-                            Lai gan daudzi domā, ka garantija sedz rūsas bojājumus, bieži tā attiecas tikai uz pilnībā iznīcinātām plāksnēm.
+                            Lai gan daudzi domā, ka garantija sedz rūsas bojājumus, bieži tā attiecas tikai uz pilnībā
+                            iznīcinātām plāksnēm.
                         </p>
                         <ul class="space-y-2">
                             <li class="flex items-center">
-                                <svg class="w-4 h-4 text-red-500 mr-2" fill="none" viewBox="0 0 24 24"
+                                <svg class="w-4 h-4 text-red-600 mr-2" fill="none" viewBox="0 0 24 24"
                                     stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                         d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-sm">Garantija parasti neaptver bīstamas detaļas, piemēram, degvielas tvertni un bremžu caurules.</span>
+                                <span class="text-sm">Garantija parasti neaptver bīstamas detaļas, piemēram, degvielas
+                                    tvertni un bremžu caurules.</span>
                             </li>
                             <li class="flex items-center">
-                                <svg class="w-4 h-4 text-red-500 mr-2" fill="none" viewBox="0 0 24 24"
+                                <svg class="w-4 h-4 text-red-600 mr-2" fill="none" viewBox="0 0 24 24"
                                     stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                         d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-sm">Regulāras pretrūsas pārbaudes var būt garantijas priekšnoteikums.</span>
+                                <span class="text-sm">Regulāras pretrūsas pārbaudes var būt garantijas
+                                    priekšnoteikums.</span>
                             </li>
                             <li class="flex items-center">
-                                <svg class="w-4 h-4 text-red-500 mr-2" fill="none" viewBox="0 0 24 24"
+                                <svg class="w-4 h-4 text-red-600 mr-2" fill="none" viewBox="0 0 24 24"
                                     stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                         d="M5 13l4 4L19 7" />
                                 </svg>
-                                <span class="text-sm">Nolietotās aizsardzības remonts ir jāpilda savlaicīgi, lai saglabātu drošību.</span>
+                                <span class="text-sm">Nolietotās aizsardzības remonts ir jāpilda savlaicīgi, lai
+                                    saglabātu drošību.</span>
                             </li>
                         </ul>
                     </div>
@@ -166,7 +177,8 @@ Rūsas bojājumi automašīnām bieži sākas aiz plastmasas pārsegiem un palie
                 <div class="bg-gradient-to-r from-gray-800 to-gray-900 rounded-xl p-8 shadow-xl">
                     <h3 class="text-2xl font-bold mb-4">Gatavs aizsargāt savu automašīnu?</h3>
                     <p class="text-gray-300 mb-6 max-w-2xl mx-auto">
-                        Mūsu tehniķi veiks rūpīgu pārbaudi un ieteiks ideālu aizsardzības paketi jūsu automašīnai un klimatam.
+                        Mūsu tehniķi veiks rūpīgu pārbaudi un ieteiks ideālu aizsardzības paketi jūsu automašīnai un
+                        klimatam.
                     </p>
                     <a href="#"
                         class="inline-flex items-center px-6 py-3 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 transition duration-300">

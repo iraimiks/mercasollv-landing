@@ -16,7 +16,7 @@ function goTo(pathTo) {
                 <!-- Logo -->
                 <div class="flex-shrink-0 flex items-center">
                     <div class="text-xl font-bold tracking-tight cursor-pointer" @click='goTo("/")'>
-                        <span class="text-red-500">MERCASOL </span>LV
+                        <span class="text-red-600">MERCASOL </span>
                     </div>
                 </div>
 

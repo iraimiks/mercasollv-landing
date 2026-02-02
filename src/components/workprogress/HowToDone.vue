@@ -2,20 +2,71 @@
     <section class="py-20 bg-gray-900 text-white">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <!-- Section header -->
-            <div class="text-center mb-16">
-                <h2 class="text-3xl md:text-4xl font-extrabold">
-                    Pilnīga pretrūsas apstrāde ar <span class="text-red-500">Mercasol</span>
-                </h2>
-                <p class="mt-4 text-lg text-gray-300 max-w-3xl mx-auto">
-                    Pilnīga pretrūsas apstrāde ir vērtīgs ieguldījums jūsu automašīnā. Šajā apstrādē mēs izejam cauri
-                    visām vietām, kur var konstatēt rūsu, lai novērstu rūsas izplatīšanos un novērstu tās progresu.
-                    Apstrāde ir piemērota tiem, kuri plāno glabāt automašīnu ilgāk par 6 gadiem vai ja aizsardzība pret
-                    rūsu ir neatbilstoša.
-                </p>
+            <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+                <div class="bg-gradient-to-b from-gray-800 to-gray-900 rounded-2xl p-8 md:p-12 shadow-2xl">
+                    <div class="flex flex-col lg:flex-row items-center justify-between gap-8">
+
+                        <!-- Logo and Title Section -->
+                        <div class="flex-1 text-center lg:text-left">
+                            <div class="flex items-center justify-center lg:justify-start gap-4 mb-6">
+                                <img class="w-16 h-16 md:w-20 md:h-20 object-contain rounded-lg shadow-lg"
+                                    src="/images/logo/mercasol-logo.jpg" alt="Mercasol Logo" />
+                                <div>
+                                    <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight">
+                                        <span
+                                            class="text-red-500 bg-clip-text bg-gradient-to-r from-red-500 to-orange-500">
+                                            Mercasol
+                                        </span>
+                                    </h2>
+                                    <p class="text-sm text-gray-400 mt-1">Rūsas apstrādes speciālisti</p>
+                                </div>
+                            </div>
+
+                            <!-- Content -->
+                            <p class="text-lg text-gray-300 leading-relaxed max-w-3xl mx-auto lg:mx-0">
+                                Pilnīga pretrūsas apstrāde ir vērtīgs ieguldījums jūsu automašīnā. Šajā apstrādē mēs
+                                izejam cauri
+                                visām vietām, kur var konstatēt rūsu, lai novērstu rūsas izplatīšanos un novērstu tās
+                                progresu.
+                                Apstrāde ir piemērota tiem, kuri plāno glabāt automašīnu ilgāk par 6 gadiem vai ja
+                                aizsardzība pret
+                                rūsu ir neatbilstoša.
+                            </p>
+
+                            <!-- Features/Callout -->
+                            <div class="mt-8 flex flex-wrap gap-3 justify-center lg:justify-start">
+                                <span
+                                    class="px-4 py-2 bg-red-500/10 border border-red-500/20 rounded-full text-red-400 text-sm font-medium">
+                                    Ilgtermiņa aizsardzība
+                                </span>
+                                <span
+                                    class="px-4 py-2 bg-red-500/10 border border-red-500/20 rounded-full text-red-400 text-sm font-medium">
+                                    Profesionāla apstrāde
+                                </span>
+                                <span
+                                    class="px-4 py-2 bg-red-500/10 border border-red-500/20 rounded-full text-red-400 text-sm font-medium">
+                                    6+ gadiem
+                                </span>
+                            </div>
+                        </div>
+
+                        <!-- Optional Image/Icon Section (if you have additional visual) -->
+                        <div class="hidden lg:block flex-shrink-0">
+                            <div
+                                class="w-48 h-48 bg-gradient-to-br from-red-900/20 to-transparent rounded-full flex items-center justify-center">
+                                <svg class="w-32 h-32 text-red-500 opacity-70" fill="none" stroke="currentColor"
+                                    viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
+                                        d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <!-- Feature boxes grid -->
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 my-5">
                 <!-- Box 1 -->
                 <div class="bg-gray-800 rounded-xl p-6 shadow-xl flex items-start">
                     <div class="flex-shrink-0 mr-5">
@@ -182,12 +233,7 @@
                                 <div
                                     class="w-32 h-32 bg-gradient-to-br from-gray-700 to-gray-900 rounded-lg flex items-center justify-center">
                                     <div class="text-center text-gray-400">
-                                        <svg class="w-12 h-12 mx-auto mb-2" fill="none" viewBox="0 0 24 24"
-                                            stroke="currentColor">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
-                                                d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
-                                        </svg>
-                                        <span class="text-xs"><img src="/images/rust/1.jpg"/></span>
+                                        <span class="text-xs"><img src="/images/rust/1.jpg" /></span>
                                     </div>
                                 </div>
                             </div>
@@ -215,12 +261,7 @@
                                 <div
                                     class="w-32 h-32 bg-gradient-to-br from-gray-700 to-gray-900 rounded-lg flex items-center justify-center">
                                     <div class="text-center text-gray-400">
-                                        <svg class="w-12 h-12 mx-auto mb-2" fill="none" viewBox="0 0 24 24"
-                                            stroke="currentColor">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
-                                                d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
-                                        </svg>
-                                        <span class="text-xs"><img src="/images/rust/2.jpg"/></span>
+                                        <span class="text-xs"><img src="/images/rust/2.jpg" /></span>
                                     </div>
                                 </div>
                             </div>
@@ -248,12 +289,7 @@
                                 <div
                                     class="w-32 h-32 bg-gradient-to-br from-gray-700 to-gray-900 rounded-lg flex items-center justify-center">
                                     <div class="text-center text-gray-400">
-                                        <svg class="w-12 h-12 mx-auto mb-2" fill="none" viewBox="0 0 24 24"
-                                            stroke="currentColor">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
-                                                d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
-                                        </svg>
-                                        <span class="text-xs"><img src="/images/rust/3.jpg"/></span>
+                                        <span class="text-xs"><img src="/images/rust/3.jpg" /></span>
                                     </div>
                                 </div>
                             </div>
@@ -281,12 +317,7 @@
                                 <div
                                     class="w-32 h-32 bg-gradient-to-br from-gray-700 to-gray-900 rounded-lg flex items-center justify-center">
                                     <div class="text-center text-gray-400">
-                                        <svg class="w-12 h-12 mx-auto mb-2" fill="none" viewBox="0 0 24 24"
-                                            stroke="currentColor">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
-                                                d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
-                                        </svg>
-                                        <span class="text-xs"><img src="/images/rust/4.jpg"/></span>
+                                        <span class="text-xs"><img src="/images/rust/4.jpg" /></span>
                                     </div>
                                 </div>
                             </div>
@@ -321,15 +352,8 @@
                                 <div
                                     class="w-32 h-32 bg-gradient-to-br from-gray-700 to-gray-900 rounded-lg flex items-center justify-center">
                                     <div class="text-center text-gray-400">
-                                        <svg class="w-12 h-12 mx-auto mb-2" fill="none" viewBox="0 0 24 24"
-                                            stroke="currentColor">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
-                                                d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
-                                                d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                                        </svg>
                                         <span class="text-xs">
-                                            <img src="/images/rust/5.jpg"/>
+                                            <img src="/images/rust/5.jpg" />
                                         </span>
                                     </div>
                                 </div>
@@ -358,13 +382,8 @@
                                 <div
                                     class="w-32 h-32 bg-gradient-to-br from-gray-700 to-gray-900 rounded-lg flex items-center justify-center">
                                     <div class="text-center text-gray-400">
-                                        <svg class="w-12 h-12 mx-auto mb-2" fill="none" viewBox="0 0 24 24"
-                                            stroke="currentColor">
-                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
-                                                d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-                                        </svg>
                                         <span class="text-xs">
-                                            <img src="/images/rust/6.jpg"/>
+                                            <img src="/images/rust/6.jpg" />
                                         </span>
                                     </div>
                                 </div>

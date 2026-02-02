@@ -4,7 +4,7 @@
             <!-- Section header -->
             <div class="text-center mb-16">
                 <h2 class="text-3xl md:text-4xl font-extrabold">
-                    Rust Protection <span class="text-red-500">Products</span>
+                    Rust Protection <span class="text-red-600">Products</span>
                 </h2>
                 <p class="mt-4 text-lg text-gray-300 max-w-3xl mx-auto">
                     Browse our selection of premium rust protection products and packages. Contact us to order or for
@@ -39,7 +39,7 @@
                             Perfect for new vehicles in moderate climates.</p>
                         <div class="flex items-center justify-between mb-5">
                             <span class="text-2xl font-bold">€120</span>
-                            <span class="text-sm text-red-500 bg-orange-900 bg-opacity-30 px-2 py-1 rounded">Most
+                            <span class="text-sm text-red-600 bg-orange-900 bg-opacity-30 px-2 py-1 rounded">Most
                                 Popular</span>
                         </div>
                         <button

@@ -11,10 +11,11 @@
                 <div>
                     <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold tracking-tight">
                         Pretrūsas apstrādes centrs
-                        <span class="text-red-500">Latgalē</span>
+                        <span class="text-red-600">Latgalē</span>
                     </h1>
                     <p class="mt-6 text-lg text-gray-300 max-w-2xl">
-                        Profesionāli pretkorozijas apkalpojumi, kas pagarina jūsu transportlīdzekļa kalpošanas laiku un saglabā tā vērtību. 
+                        Profesionāli pretkorozijas apkalpojumi, kas pagarina jūsu transportlīdzekļa kalpošanas laiku un
+                        saglabā tā vērtību.
                     </p>
                     <div class="mt-8 flex flex-col sm:flex-row sm:space-x-4 space-y-4 sm:space-y-0">
                         <a href="#"
@@ -28,7 +29,7 @@
                     </div>
                     <div class="mt-10 flex items-center space-x-8">
                         <div class="flex items-center">
-                            <svg class="h-6 w-6 text-red-500 mr-2" fill="none" viewBox="0 0 24 24"
+                            <svg class="h-6 w-6 text-red-600 mr-2" fill="none" viewBox="0 0 24 24"
                                 stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M5 13l4 4L19 7" />
@@ -36,7 +37,7 @@
                             <span class="text-sm">Tīrīšana un sagatavošana</span>
                         </div>
                         <div class="flex items-center">
-                            <svg class="h-6 w-6 text-red-500 mr-2" fill="none" viewBox="0 0 24 24"
+                            <svg class="h-6 w-6 text-red-600 mr-2" fill="none" viewBox="0 0 24 24"
                                 stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M5 13l4 4L19 7" />
@@ -44,7 +45,7 @@
                             <span class="text-sm">Virsbūves pārbaude</span>
                         </div>
                         <div class="flex items-center">
-                            <svg class="h-6 w-6 text-red-500 mr-2" fill="none" viewBox="0 0 24 24"
+                            <svg class="h-6 w-6 text-red-600 mr-2" fill="none" viewBox="0 0 24 24"
                                 stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M5 13l4 4L19 7" />
@@ -60,7 +61,9 @@
                         class="p-10 aspect-w-16 aspect-h-9 bg-gradient-to-br from-gray-700 to-gray-900 rounded-lg overflow-hidden text-center">
 
                         <h3 class="text-xl font-bold text-white">Augstākā līmeņa aizsardzība ar Mercasol</h3>
-                        <p class="mt-2 text-gray-300">Protikorozijas apstrāde ir vienīgā efektīvā metode cīņā pret rūsu, un augstas kvalitātes materiālu izmantošana garantē, ka tuvākajā laikā par rūsas problēmām varēsiet aizmirst.</p>
+                        <p class="mt-2 text-gray-300">Protikorozijas apstrāde ir vienīgā efektīvā metode cīņā pret rūsu,
+                            un augstas kvalitātes materiālu izmantošana garantē, ka tuvākajā laikā par rūsas problēmām
+                            varēsiet aizmirst.</p>
                     </div>
 
                     <!-- Decorative elements -->

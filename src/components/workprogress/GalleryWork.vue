@@ -4,7 +4,7 @@
             <!-- Section header -->
             <div class="text-center mb-16">
                 <h2 class="text-3xl md:text-4xl font-extrabold">
-                    See Our <span class="text-red-500">Protection</span> in Action
+                    See Our <span class="text-red-600">Protection</span> in Action
                 </h2>
                 <p class="mt-4 text-lg text-gray-300 max-w-3xl mx-auto">
                     Watch these videos to see how our rust protection process works and hear from satisfied customers

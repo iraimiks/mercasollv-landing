@@ -23,7 +23,7 @@ function goTo(pathTo) {
                 <!-- Desktop Navigation -->
                 <div class="hidden md:block">
                     <div class="ml-10 flex items-baseline space-x-4">
-                        <a href="#" class="px-3 py-2 rounded-md text-sm font-medium bg-red-500 text-white"
+                        <a href="#" class="px-3 py-2 rounded-md text-sm font-medium bg-red-600 text-white"
                             @click='goTo("/")'>Galvenā</a>
                         <a href="#"
                             class="px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition duration-300"

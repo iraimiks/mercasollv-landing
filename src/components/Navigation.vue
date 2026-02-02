@@ -56,7 +56,7 @@ function goTo(pathTo) {
                     @click='goTo("/")'>Galvenā</a>
                 <a href="#"
                     class="block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700"
-                    @click='goTo("/workProgress")'>Darba gaita</a>
+                    @click='goTo("/workProgress")'>Par Mercasol</a>
                 <a href="#"
                     class="block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700"
                     @click='goTo("/priceInfo")'>Cenu lapa</a>

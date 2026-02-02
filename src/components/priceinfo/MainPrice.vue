@@ -45,7 +45,7 @@
                                     <span class="font-semibold">no 1200</span>
                                 </td>
                                 <td class="py-5 px-6">
-                                    <a href="https://wa.me/+37120055323" target="_blank"
+                                    <a href="https://wa.me/+37128499199" target="_blank"
                                         class="px-4 py-2 bg-red-600 text-white text-sm font-medium rounded-md hover:bg-red-700 transition duration-300">
                                         Pierakstīties
                                     </a>
@@ -71,7 +71,7 @@
                                     <span class="font-semibold">no 1200</span>
                                 </td>
                                 <td class="py-5 px-6">
-                                    <a href="https://wa.me/+37120055323" target="_blank"
+                                    <a href="https://wa.me/+37128499199" target="_blank"
                                         class="px-4 py-2 bg-red-600 text-white text-sm font-medium rounded-md hover:bg-red-700 transition duration-300">
                                         Pierakstīties
                                     </a>
@@ -97,7 +97,7 @@
                                     <span class="font-semibold">no 1200</span>
                                 </td>
                                 <td class="py-5 px-6">
-                                    <a href="https://wa.me/+37120055323" target="_blank"
+                                    <a href="https://wa.me/+37128499199" target="_blank"
                                         class="px-4 py-2 bg-red-600 text-white text-sm font-medium rounded-md hover:bg-red-700 transition duration-300">
                                         Pierakstīties
                                     </a>
@@ -155,7 +155,7 @@
                         Sazinieties ar mums, lai saņemtu individuālu novērtējumu un precīzu cenu, pamatojoties uz jūsu
                         transportlīdzekļa faktisko stāvokli un prasībām.
                     </p>
-                    <a href="https://wa.me/+37120055323"
+                    <a href="https://wa.me/+37128499199"
                         class="inline-flex items-center px-6 py-3 bg-red-600 text-white font-medium rounded-md hover:bg-red-700 transition duration-300">
                         Sazinieties ar mums
                         <svg class="w-5 h-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">

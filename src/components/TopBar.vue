@@ -17,7 +17,7 @@
                 </a>
 
                 <!-- Phone Button -->
-                <a href="https://wa.me/+37120055323" target="_blank"
+                <a href="https://wa.me/+37128499199" target="_blank"
                     class="group flex items-center justify-center text-sm text-gray-300 hover:text-white transition duration-300">
                     <div class="bg-gray-700 group-hover:bg-red-600 rounded-lg p-2 mr-2 transition duration-300">
                         <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -25,7 +25,7 @@
                                 d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                         </svg>
                     </div>
-                    <span>+371 20055323</span>
+                    <span>+371 28499199</span>
                 </a>
 
                 <!-- External Website Link -->

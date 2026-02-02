@@ -402,7 +402,7 @@
                         Sazinieties ar mums, lai saņemtu detalizētu informāciju un bezmaksas konsultāciju par jūsu
                         automašīnas aizsardzību.
                     </p>
-                    <a href="https://wa.me/+37120055323" target="_blank"
+                    <a href="https://wa.me/+37128499199" target="_blank"
                         class="inline-flex items-center px-6 py-3 bg-red-600 text-white font-medium rounded-md hover:bg-red-700 transition duration-300">
                         Sazināties ar speciālistu
                         <svg class="w-5 h-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">

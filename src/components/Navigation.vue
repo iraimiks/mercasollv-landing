@@ -32,7 +32,7 @@ function goTo(pathTo) {
                             class="px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition duration-300"
                             @click='goTo("/priceInfo")'>Cenu lapa</a>
                         <!-- <a href="#"
-                            class="px-3 py-2 rounded-md text-sm font-medium bg-gray-700 text-white hover:bg-orange-600 transition duration-300"
+                            class="px-3 py-2 rounded-md text-sm font-medium bg-gray-700 text-white hover:bg-red-600 transition duration-300"
                             @click='goTo("/shop")'>Veikals</a> -->
                     </div>
                 </div>
@@ -52,7 +52,7 @@ function goTo(pathTo) {
         <!-- Mobile Navigation (hidden by default) -->
         <div class="md:hidden" :class="{ 'hidden': isHidden }">
             <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
-                <a href="#" class="block px-3 py-2 rounded-md text-base font-medium bg-orange-600 text-white"
+                <a href="#" class="block px-3 py-2 rounded-md text-base font-medium bg-red-600 text-white"
                     @click='goTo("/")'>Galvenā</a>
                 <a href="#"
                     class="block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700"
@@ -61,7 +61,7 @@ function goTo(pathTo) {
                     class="block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-white hover:bg-gray-700"
                     @click='goTo("/priceInfo")'>Cenu lapa</a>
                 <a href="#"
-                    class="block px-3 py-2 rounded-md text-base font-medium bg-gray-700 text-white hover:bg-orange-600"
+                    class="block px-3 py-2 rounded-md text-base font-medium bg-gray-700 text-white hover:bg-red-600"
                     @click='goTo("/shop")'>Veikals</a>
             </div>
         </div>

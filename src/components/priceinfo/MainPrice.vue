@@ -28,7 +28,7 @@
                             <tr class="hover:bg-gray-750 transition duration-200">
                                 <td class="py-5 px-6">
                                     <div class="flex items-center">
-                                        <div class="bg-orange-500 rounded-lg p-3 mr-4">
+                                        <div class="bg-red-600 rounded-lg p-3 mr-4">
                                             <svg class="w-6 h-6 text-white" fill="none" viewBox="0 0 24 24"
                                                 stroke="currentColor">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -46,7 +46,7 @@
                                 </td>
                                 <td class="py-5 px-6">
                                     <a href="https://wa.me/+37120055323" target="_blank"
-                                        class="px-4 py-2 bg-orange-600 text-white text-sm font-medium rounded-md hover:bg-orange-700 transition duration-300">
+                                        class="px-4 py-2 bg-red-600 text-white text-sm font-medium rounded-md hover:bg-red-700 transition duration-300">
                                         Pierakstīties
                                     </a>
                                 </td>
@@ -54,7 +54,7 @@
                             <tr class="hover:bg-gray-750 transition duration-200">
                                 <td class="py-5 px-6">
                                     <div class="flex items-center">
-                                        <div class="bg-orange-500 rounded-lg p-3 mr-4">
+                                        <div class="bg-red-600 rounded-lg p-3 mr-4">
                                             <svg class="w-6 h-6 text-white" fill="none" viewBox="0 0 24 24"
                                                 stroke="currentColor">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -72,7 +72,7 @@
                                 </td>
                                 <td class="py-5 px-6">
                                     <a href="https://wa.me/+37120055323" target="_blank"
-                                        class="px-4 py-2 bg-orange-600 text-white text-sm font-medium rounded-md hover:bg-orange-700 transition duration-300">
+                                        class="px-4 py-2 bg-red-600 text-white text-sm font-medium rounded-md hover:bg-red-700 transition duration-300">
                                         Pierakstīties
                                     </a>
                                 </td>
@@ -80,7 +80,7 @@
                             <tr class="hover:bg-gray-750 transition duration-200">
                                 <td class="py-5 px-6">
                                     <div class="flex items-center">
-                                        <div class="bg-orange-500 rounded-lg p-3 mr-4">
+                                        <div class="bg-red-600 rounded-lg p-3 mr-4">
                                             <svg class="w-6 h-6 text-white" fill="none" viewBox="0 0 24 24"
                                                 stroke="currentColor">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -98,7 +98,7 @@
                                 </td>
                                 <td class="py-5 px-6">
                                     <a href="https://wa.me/+37120055323" target="_blank"
-                                        class="px-4 py-2 bg-orange-600 text-white text-sm font-medium rounded-md hover:bg-orange-700 transition duration-300">
+                                        class="px-4 py-2 bg-red-600 text-white text-sm font-medium rounded-md hover:bg-red-700 transition duration-300">
                                         Pierakstīties
                                     </a>
                                 </td>
@@ -156,7 +156,7 @@
                         transportlīdzekļa faktisko stāvokli un prasībām.
                     </p>
                     <a href="https://wa.me/+37120055323"
-                        class="inline-flex items-center px-6 py-3 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 transition duration-300">
+                        class="inline-flex items-center px-6 py-3 bg-red-600 text-white font-medium rounded-md hover:bg-red-700 transition duration-300">
                         Sazinieties ar mums
                         <svg class="w-5 h-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"

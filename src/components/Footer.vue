@@ -88,12 +88,12 @@
                             </svg>
                             <span class="text-gray-400">www.autoboost.lv</span>
                         </li>
-                        <li class="flex items-center pt-4">
+                        <!-- <li class="flex items-center pt-4">
                             <a href="#"
-                                class="px-4 py-2 bg-orange-600 text-white text-sm font-medium rounded-md hover:bg-orange-700 transition duration-300">
+                                class="px-4 py-2 bg-red-600 text-white text-sm font-medium rounded-md hover:bg-red-700 transition duration-300">
                                 Schedule Inspection
                             </a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
@@ -111,7 +111,7 @@
                             <input type="email" placeholder="Your email address"
                                 class="flex-grow px-4 py-2 bg-gray-800 border border-gray-700 rounded-md text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent">
                             <button type="submit"
-                                class="px-6 py-2 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 transition duration-300 whitespace-nowrap">
+                                class="px-6 py-2 bg-red-600 text-white font-medium rounded-md hover:bg-red-700 transition duration-300 whitespace-nowrap">
                                 Subscribe
                             </button>
                         </form> -->

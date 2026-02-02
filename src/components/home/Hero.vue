@@ -19,7 +19,7 @@
                     </p>
                     <div class="mt-8 flex flex-col sm:flex-row sm:space-x-4 space-y-4 sm:space-y-0">
                         <a href="#"
-                            class="px-6 py-3 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 transition duration-300 text-center">
+                            class="px-6 py-3 bg-red-600 text-white font-medium rounded-md hover:bg-red-700 transition duration-300 text-center">
                             Pieteikties bezmaksas aspkatei
                         </a>
                         <a href="#"
@@ -68,7 +68,7 @@
 
                     <!-- Decorative elements -->
                     <div
-                        class="absolute -top-4 -right-4 w-28 h-28 bg-orange-500 rounded-full mix-blend-overlay filter blur-xl opacity-30 animate-pulse">
+                        class="absolute -top-4 -right-4 w-28 h-28 bg-red-600 rounded-full mix-blend-overlay filter blur-xl opacity-30 animate-pulse">
                     </div>
                     <div
                         class="absolute -bottom-4 -left-4 w-24 h-24 bg-blue-500 rounded-full mix-blend-overlay filter blur-xl opacity-20 animate-pulse delay-1000">

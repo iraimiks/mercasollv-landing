@@ -24,7 +24,7 @@
                         <div class="absolute inset-0 flex items-center justify-center">
                             <div class="text-white text-center">
                                 <div
-                                    class="inline-flex items-center justify-center w-16 h-16 rounded-full bg-orange-500 bg-opacity-90 mb-4">
+                                    class="inline-flex items-center justify-center w-16 h-16 rounded-full bg-red-600 bg-opacity-90 mb-4">
                                     <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                             d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
@@ -43,7 +43,7 @@
                                 Popular</span>
                         </div>
                         <button
-                            class="w-full px-4 py-3 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 transition duration-300">
+                            class="w-full px-4 py-3 bg-red-600 text-white font-medium rounded-md hover:bg-red-700 transition duration-300">
                             Inquire About This Product
                         </button>
                     </div>
@@ -78,7 +78,7 @@
                                 Tech</span>
                         </div>
                         <button
-                            class="w-full px-4 py-3 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 transition duration-300">
+                            class="w-full px-4 py-3 bg-red-600 text-white font-medium rounded-md hover:bg-red-700 transition duration-300">
                             Inquire About This Product
                         </button>
                     </div>
@@ -113,7 +113,7 @@
                                 Option</span>
                         </div>
                         <button
-                            class="w-full px-4 py-3 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 transition duration-300">
+                            class="w-full px-4 py-3 bg-red-600 text-white font-medium rounded-md hover:bg-red-700 transition duration-300">
                             Inquire About This Product
                         </button>
                     </div>
@@ -148,7 +148,7 @@
                                 Value</span>
                         </div>
                         <button
-                            class="w-full px-4 py-3 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 transition duration-300">
+                            class="w-full px-4 py-3 bg-red-600 text-white font-medium rounded-md hover:bg-red-700 transition duration-300">
                             Inquire About This Product
                         </button>
                     </div>
@@ -183,7 +183,7 @@
                                 class="text-sm text-yellow-500 bg-yellow-900 bg-opacity-30 px-2 py-1 rounded">Maintenance</span>
                         </div>
                         <button
-                            class="w-full px-4 py-3 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 transition duration-300">
+                            class="w-full px-4 py-3 bg-red-600 text-white font-medium rounded-md hover:bg-red-700 transition duration-300">
                             Inquire About This Product
                         </button>
                     </div>
@@ -199,7 +199,7 @@
                         climate conditions.
                     </p>
                     <a href="#"
-                        class="inline-flex items-center px-6 py-3 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 transition duration-300">
+                        class="inline-flex items-center px-6 py-3 bg-red-600 text-white font-medium rounded-md hover:bg-red-700 transition duration-300">
                         Contact Our Experts
                         <svg class="w-5 h-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"

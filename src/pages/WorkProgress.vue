@@ -4,5 +4,5 @@ import GalleryWork from '@/components/workprogress/GalleryWork.vue';
 </script>
 <template>
     <HowToDone />
-    <!-- <GalleryWork /> -->
+    <GalleryWork />
 </template>

@@ -9,10 +9,12 @@
                         <span class="text-red-500">MRECASOL </span>LV
                     </div>
                     <p class="text-gray-400 mb-6">
-                        Aizsargājiet savu automašīnu un saglabājiet tās vērtību ar mūsu modernajiem korozijas novēršanas risinājumiem.
+                        Aizsargājiet savu automašīnu un saglabājiet tās vērtību ar mūsu modernajiem korozijas novēršanas
+                        risinājumiem.
                     </p>
                     <div class="flex space-x-4">
-                        <a href="https://www.facebook.com/autboost.lv/" class="text-gray-400 hover:text-red-500 transition duration-300">
+                        <a href="https://www.facebook.com/autboost.lv/"
+                            class="text-gray-400 hover:text-red-500 transition duration-300">
                             <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                                 <path fill-rule="evenodd"
                                     d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z"
@@ -23,7 +25,7 @@
                 </div>
 
                 <!-- Services -->
-                <div>
+                <!-- <div>
                     <h3 class="text-lg font-semibold mb-4 text-red-500">Our Services</h3>
                     <ul class="space-y-3">
                         <li><a href="#" class="text-gray-400 hover:text-white transition duration-300">Undercoating
@@ -39,10 +41,10 @@
                         <li><a href="#" class="text-gray-400 hover:text-white transition duration-300">Commercial Fleet
                                 Protection</a></li>
                     </ul>
-                </div>
+                </div> -->
 
                 <!-- Quick links -->
-                <div>
+                <!-- <div>
                     <h3 class="text-lg font-semibold mb-4 text-red-500">Quick Links</h3>
                     <ul class="space-y-3">
                         <li><a href="#" class="text-gray-400 hover:text-white transition duration-300">About Us</a></li>
@@ -54,7 +56,7 @@
                         <li><a href="#" class="text-gray-400 hover:text-white transition duration-300">FAQ</a></li>
                         <li><a href="#" class="text-gray-400 hover:text-white transition duration-300">Blog</a></li>
                     </ul>
-                </div>
+                </div> -->
 
                 <!-- Contact info -->
                 <div>
@@ -100,19 +102,19 @@
             <div class="border-t border-gray-800 pt-8 mb-8">
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
                     <div>
-                        <h3 class="text-lg font-semibold mb-2 text-red-500">Stay Protected</h3>
-                        <p class="text-gray-400">Subscribe to our newsletter for maintenance tips and exclusive offers.
-                        </p>
+                        <h3 class="text-lg font-semibold mb-2 text-red-500">Esiet aizsargāti</h3>
+                        <!-- <p class="text-gray-400">Subscribe to our newsletter for maintenance tips and exclusive offers.
+                        </p> -->
                     </div>
                     <div>
-                        <form class="flex flex-col sm:flex-row gap-3">
+                        <!-- <form class="flex flex-col sm:flex-row gap-3">
                             <input type="email" placeholder="Your email address"
                                 class="flex-grow px-4 py-2 bg-gray-800 border border-gray-700 rounded-md text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent">
                             <button type="submit"
                                 class="px-6 py-2 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 transition duration-300 whitespace-nowrap">
                                 Subscribe
                             </button>
-                        </form>
+                        </form> -->
                     </div>
                 </div>
             </div>
@@ -123,12 +125,9 @@
                     © Cubelligent
                 </p>
                 <div class="flex space-x-6">
-                    <a href="#" class="text-gray-500 hover:text-red-500 text-sm transition duration-300">Privacy
-                        Policy</a>
-                    <a href="#" class="text-gray-500 hover:text-red-500 text-sm transition duration-300">Terms of
-                        Service</a>
-                    <a href="#" class="text-gray-500 hover:text-red-500 text-sm transition duration-300">Cookie
-                        Policy</a>
+                    <a href="#" id="open_preferences_center"
+                        class="text-gray-500 hover:text-red-500 text-sm transition duration-300">Konfidencialitātes
+                        politika</a>
                 </div>
             </div>
         </div>

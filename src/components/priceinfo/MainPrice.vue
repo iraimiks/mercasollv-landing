@@ -4,11 +4,11 @@
             <!-- Section header -->
             <div class="text-center mb-16">
                 <h2 class="text-3xl md:text-4xl font-extrabold">
-                    Transparent <span class="text-red-500">Pricing</span>
+                    <span class="text-red-500">Cenas</span>
                 </h2>
                 <p class="mt-4 text-lg text-gray-300 max-w-3xl mx-auto">
-                    Our comprehensive rust protection services are priced fairly based on your vehicle type and
-                    condition. All prices are shown without VAT.
+                    Mūsu visaptverošās rūsas aizsardzības pakalpojumu cenas tiek noteiktas godīgi, ņemot vērā jūsu
+                    transportlīdzekļa tipu un tā stāvokli.
                 </p>
             </div>
 
@@ -45,10 +45,10 @@
                                     <span class="font-semibold">no 1200</span>
                                 </td>
                                 <td class="py-5 px-6">
-                                    <button
+                                    <a href="https://wa.me/+37120055323" target="_blank"
                                         class="px-4 py-2 bg-orange-600 text-white text-sm font-medium rounded-md hover:bg-orange-700 transition duration-300">
                                         Pierakstīties
-                                    </button>
+                                    </a>
                                 </td>
                             </tr>
                             <tr class="hover:bg-gray-750 transition duration-200">
@@ -71,10 +71,10 @@
                                     <span class="font-semibold">no 1200</span>
                                 </td>
                                 <td class="py-5 px-6">
-                                    <button
+                                    <a href="https://wa.me/+37120055323" target="_blank"
                                         class="px-4 py-2 bg-orange-600 text-white text-sm font-medium rounded-md hover:bg-orange-700 transition duration-300">
                                         Pierakstīties
-                                    </button>
+                                    </a>
                                 </td>
                             </tr>
                             <tr class="hover:bg-gray-750 transition duration-200">
@@ -97,10 +97,10 @@
                                     <span class="font-semibold">no 1200</span>
                                 </td>
                                 <td class="py-5 px-6">
-                                    <button
+                                    <a href="https://wa.me/+37120055323" target="_blank"
                                         class="px-4 py-2 bg-orange-600 text-white text-sm font-medium rounded-md hover:bg-orange-700 transition duration-300">
                                         Pierakstīties
-                                    </button>
+                                    </a>
                                 </td>
                             </tr>
                         </tbody>
@@ -109,7 +109,7 @@
             </div>
 
             <!-- Additional information -->
-            <div class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8">
+            <!-- <div class="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div class="bg-gray-800 p-6 rounded-xl shadow-lg">
                     <div class="text-red-500 mb-4">
                         <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -145,19 +145,19 @@
                     <p class="text-gray-300">Our team consists of certified professionals trained in the latest rust
                         prevention techniques.</p>
                 </div>
-            </div>
+            </div> -->
 
             <!-- CTA section -->
             <div class="mt-16 text-center">
                 <div class="bg-gradient-to-r from-gray-800 to-gray-900 rounded-xl p-8 shadow-xl">
-                    <h3 class="text-2xl font-bold mb-4">Need a Custom Quote?</h3>
+                    <h3 class="text-2xl font-bold mb-4">Vajag pielāgotu piedāvājumu?</h3>
                     <p class="text-gray-300 mb-6 max-w-2xl mx-auto">
-                        Contact us for a personalized assessment and exact pricing based on your vehicle's specific
-                        condition and requirements.
+                        Sazinieties ar mums, lai saņemtu individuālu novērtējumu un precīzu cenu, pamatojoties uz jūsu
+                        transportlīdzekļa faktisko stāvokli un prasībām.
                     </p>
-                    <a href="#"
+                    <a href="https://wa.me/+37120055323"
                         class="inline-flex items-center px-6 py-3 bg-orange-600 text-white font-medium rounded-md hover:bg-orange-700 transition duration-300">
-                        Request Custom Quote
+                        Sazinieties ar mums
                         <svg class="w-5 h-5 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                 d="M14 5l7 7m0 0l-7 7m7-7H3" />

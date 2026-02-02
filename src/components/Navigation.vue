@@ -27,13 +27,13 @@ function goTo(pathTo) {
                             @click='goTo("/")'>Galvenā</a>
                         <a href="#"
                             class="px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition duration-300"
-                            @click='goTo("/workProgress")'>Par mercasol</a>
+                            @click='goTo("/workProgress")'>Par Mercasol</a>
                         <a href="#"
                             class="px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:text-white hover:bg-gray-700 transition duration-300"
                             @click='goTo("/priceInfo")'>Cenu lapa</a>
-                        <a href="#"
+                        <!-- <a href="#"
                             class="px-3 py-2 rounded-md text-sm font-medium bg-gray-700 text-white hover:bg-orange-600 transition duration-300"
-                            @click='goTo("/shop")'>Veikals</a>
+                            @click='goTo("/shop")'>Veikals</a> -->
                     </div>
                 </div>
 
